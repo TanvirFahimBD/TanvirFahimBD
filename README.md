@@ -37,3 +37,14 @@
 <br />
 
 ---
+
+### My Tech Stacks:
+
+```json
+{
+    "languages" : ["Javascript", "C++", "Java"],
+    "frontend"  : ["Bootstrap", "React"], 
+    "backend"   : ["Nodejs", "Express"],
+    "database"  : ["MySQL", "MongoDB"]
+}
+```
