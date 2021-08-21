@@ -12,11 +12,12 @@
 
 ### Connect with me:
 
+[<img align="left" alt="tanvir-hossain-fahim-084478156 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanvir-hossain-fahim-084478156/)
+[<img align="left" alt="tanvir.cse18 | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tanvir.cse18@gmail.com)
 [<img align="left" alt="TanvirHossainF6 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TanvirHossainF6)
 [<img align="left" alt="fahim.tanvir.378 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/fahim.tanvir.378/)
-[<img align="left" alt="tanvir-hossain-fahim-084478156 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanvir-hossain-fahim-084478156/)
 [<img align="left" alt="TanvirFahimBD | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/TanvirFahimBD)
 [<img align="left" alt="tanvirfahimbd | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/tanvirfahimbd)
 [<img align="left" alt="tanvirfahim | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://hashnode.com/@tanvirfahim)
-[<img align="left" alt="tanvir.cse18 | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tanvir.cse18@gmail.com)
 <br />
+
