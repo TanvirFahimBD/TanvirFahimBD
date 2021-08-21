@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Hossain Fahim</h1>
-<h3 align="center">A front end developer</h3>
+<h3 align="center">A front end web developer </h3>
 
 - 💻 I'm doing my undergraduate in CSE from NUBTK
 - 🌱 I’m currently learning React.js
