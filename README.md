@@ -53,6 +53,15 @@
   <li>
      <b>1nd Runners up @ </b> Programming Contest - Inter University Programming Contest @ NUBTK
    </li>
+  <li>
+     <b>Certified Courses @ Hackerrank: </b> 10 Days of JS, Problem Solving, Java
+   </li>
+   <li>
+     <b>Certified Courses @ Sololearn:</b> HTML, CSS, Javascript.
+   </li>
+   <li>
+     <b>Certified Courses @ LinkedIn Learning:</b> Programming Foundations: Object-Oriented Design
+   </li>   
    <li>
      <b>Certified Courses @ Coursera: </b> Front-End Web UI Frameworks and Tools: Bootstrap 4
    </li>
@@ -65,10 +74,5 @@
    <li>
      <b>Certified Courses @ Udacity:</b> Object-Oriented JavaScript
    </li>
-   <li>
-     <b>Certified Courses @ LinkedIn Learning:</b> Programming Foundations: Object-Oriented Design
-   </li>
-   <li>
-     <b>Certified Courses @ Sololearn:</b> HTML, CSS, Javascript.
-   </li>
 </ul>
+
