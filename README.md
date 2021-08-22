@@ -84,5 +84,5 @@
    </li>
 </ul>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanvirFahimBD&repo=TanvirFahimBD&show_owner=TanvirFahimBD)](https://github.com/TanvirFahimBD/TanvirFahimBD)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanvirFahimBD&repo=TanvirFahimBD&show_owner=TanvirFahimBD)](https://github.com/TanvirFahimBD/TanvirFahimBD) -->
 
