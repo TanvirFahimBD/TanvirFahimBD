@@ -51,7 +51,11 @@
 <p align="center">
         <img title="🔥 Get streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
 </p>
-    
+
+<p align="center">
+        <img title="🔥 Get streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=merko&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true" alt="TanvirFahimBD" /></p>
