@@ -49,7 +49,7 @@
 ```
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&" alt="TanvirFahimBD" />
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=merko&title_color=#FFFFFF&text_color=#FFFFFF&icon_color=#FFFFFF&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>](https://github.com/TanvirFahimBD)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=merko&title_color=white&text_color=white&icon_color=white&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>](https://github.com/TanvirFahimBD)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true)](https://github.com/TanvirFahimBD)
 
