@@ -77,5 +77,3 @@
 </ul>
 
 [<img align="left" src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=merko&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>](https://github.com/TanvirFahimBD)
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&count_private=true&show_icons=true&hide_border=true)](https://github.com/TanvirFahimBD)
