@@ -47,3 +47,28 @@
     "database"  : ["MySQL", "MongoDB"]
 }
 ```
+### Achievement & Certification:
+
+<ul>
+  <li>
+     <b>1nd Runners up @ </b> Programming Contest - Inter University Programming Contest @ NUBTK
+   </li>
+   <li>
+     <b>Certified Courses @ Coursera: </b> Front-End Web UI Frameworks and Tools: Bootstrap 4
+   </li>
+   <li>
+     <b>Certified Courses @ Edx: </b> CS50's Introduction to Computer Science  
+   </li>
+   <li>
+     <b>Certified Courses @ Udemy:</b> Web Design for Web Developers: Build Beautiful Websites!
+   </li>
+   <li>
+     <b>Certified Courses @ Udacity:</b> Object-Oriented JavaScript
+   </li>
+   <li>
+     <b>Certified Courses @ LinkedIn Learning:</b> Programming Foundations: Object-Oriented Design
+   </li>
+   <li>
+     <b>Certified Courses @ Sololearn:</b> HTML, CSS, Javascript.
+   </li>
+</ul>
