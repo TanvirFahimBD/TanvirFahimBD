@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanvir, Welcome to my profile!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanvir, Welcome to my profile!</h1>
 <h2 align="center">Front end web developer </h2>
 
 - 💻 I’m currently learning React.Js and Node.js
