@@ -47,11 +47,11 @@
     "database"  : ["MySQL", "MongoDB"]
 }
 ```
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&" alt="TanvirFahimBD" />
+[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&" alt="TanvirFahimBD" />]
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=merko&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>](https://github.com/TanvirFahimBD)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=merko&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>](https://github.com/TanvirFahimBD)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true)](https://github.com/TanvirFahimBD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true)](https://github.com/TanvirFahimBD)]
 
 
 ---
