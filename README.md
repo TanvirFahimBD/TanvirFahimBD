@@ -10,7 +10,7 @@
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 - 🎈 Fun fact: I'm not a quick learner but trying to be...
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="tanvir-hossain-fahim-084478156 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanvir-hossain-fahim-084478156/)
 [<img align="left" alt="tanvir.cse18 | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tanvir.cse18@gmail.com)
@@ -21,7 +21,7 @@
 [<img align="left" alt="tanvirfahim | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://hashnode.com/@tanvirfahim)
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://www.w3.org/html)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -34,7 +34,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 <br />
 
-### My Tech Stack:
+### My Tech Stack
 
 ```json
 {
@@ -49,7 +49,7 @@
 
 ---
 
-## Github Stats
+## Github Stats:
 
 <p align="center">
         <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
