@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tanvir, Welcome to my profile!</h1>
-<h3 align="center">A front end web developer </h3>
+<h2 align="center">Front end web developer </h2>
 
+- 💻 I’m currently learning React.Js and Node.js
+- 🎯 2021 Goals: Web Development with React.Js and Node.js
 - 🎓 I'm doing my undergraduate in CSE from NUBTK
-- 💻 I’m currently learning React.js
-- 🤝 I’m looking to collaborate on others passionate team workers
-- 🚀 I’m looking for stick with competitive programming at least 2 years 
-- 💪 Ask me about javacript, react.js
-- 🎯 2021 Goals: Web Development with ReactJs
-- 😀 Fun fact: I'm not a quick learner but trying to be ...
-- 📧 Reach me at **tanvir.cse18@gmail.com**
+- 🚀 I’m looking for stick with CP and contribute on open source
+- 🤝 I’m looking to collaborate with passionate tech enthusiast
+- 💪 Ask me anything about javascript, react.js, node.js
+- 📧 Reach me anytime at **tanvir.cse18@gmail.com**
+- 🎈 Fun fact: I'm not a quick learner but trying to be...
 
 ### Connect with me:
 
@@ -33,43 +33,46 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 <br />
+
+### My Tech Stack:
+
+```json
+{
+  "languages": ["Javascript", "C++", "Java"],
+  "frontend": ["Bootstrap", "React"],
+  "backend": ["Nodejs", "Express"],
+  "database": ["MySQL", "MongoDB"]
+}
+```
+
 <br />
 
 ---
 
-### My Tech Stacks:
-
-```json
-{
-    "languages" : ["Javascript", "C++", "Java"],
-    "frontend"  : ["Bootstrap", "React"], 
-    "backend"   : ["Nodejs", "Express"],
-    "database"  : ["MySQL", "MongoDB"]
-}
-```
+## Github Stats
 
 <p align="center">
-        <img title="🔥 Get streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
+        <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
 </p>
 
 <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true&theme=prussian" alt="TanvirFahimBD" /></a>
+  <a href="#" title="Github Stats"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/></a>
+  <a href="#" title="Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true&theme=prussian" alt="TanvirFahimBD's  Most Used Languages" /></a>
 <br/>
 
 ---
 
-### Achievement & Certification:
+## Achievement & Certification:
 
 <ul>
   <li>
      <b>1nd Runners up @ </b> Programming Contest - Inter University Programming Contest @ NUBTK
    </li>
   <li>
-     <b>Certified Courses @ Hackerrank: </b> 10 Days of JS, Problem Solving, Java
+     <b>Certified Courses @ HackerRank: </b> 10 Days of JS, Problem Solving, Java
    </li>
    <li>
-     <b>Certified Courses @ Sololearn:</b> HTML, CSS, Javascript.
+     <b>Certified Courses @ SoloLearn:</b> HTML, CSS, Javascript
    </li>
    <li>
      <b>Certified Courses @ LinkedIn Learning:</b> Programming Foundations: Object-Oriented Design
@@ -88,4 +91,7 @@
    </li>
 </ul>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanvirFahimBD&repo=TanvirFahimBD&show_owner=TanvirFahimBD)](https://github.com/TanvirFahimBD/TanvirFahimBD) -->
+<!-- =====================================================
+//Add more than 6 git repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanvirFahimBD&repo=TanvirFahimBD&show_owner=TanvirFahimBD)](https://github.com/TanvirFahimBD/TanvirFahimBD)
+=======================================================  -->
