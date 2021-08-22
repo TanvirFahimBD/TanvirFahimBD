@@ -53,8 +53,8 @@
 </p>
 
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true&theme=prussian" alt="TanvirFahimBD" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirFahimBD&layout=compact&hide_border=true&theme=prussian" alt="TanvirFahimBD" /></a>
 <br/>
 
 ---
@@ -89,4 +89,3 @@
 </ul>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanvirFahimBD&repo=TanvirFahimBD&show_owner=TanvirFahimBD)](https://github.com/TanvirFahimBD/TanvirFahimBD) -->
-
