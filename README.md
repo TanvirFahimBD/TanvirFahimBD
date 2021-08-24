@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tanvir-hossain-fahim-084478156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=tanvir-hossain-fahim-084478156" height="30" width="40" /></a>
 <a href="https://codepen.io/tanvir_fahim_NUB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanvir_fahim_NUB" height="30" width="40" /></a>
-<a href="https://medium.com/@tanvirfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tanvirfahim" height="30" width="40" /></a>
+<a href="https://medium.com/@tanvirfahim6939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tanvirfahim6939" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCJdp5RtWPq4kO6PKDj3w5eQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCJdp5RtWPq4kO6PKDj3w5eQ" height="30" width="40" /></a>
 <a href="https://twitter.com/TanvirHossainF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TanvirHossainF6" height="30" width="40" /></a>
 </p>
