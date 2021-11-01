@@ -26,7 +26,7 @@
 
 <br/>
    <p align="center">
-  <a href="#" title="Github Stats"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>
+  <a href="#" title="🚀 Github Stats"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>
   </a>
   </p>
 
