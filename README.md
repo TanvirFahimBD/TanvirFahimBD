@@ -5,7 +5,7 @@
 - ✋ Hi, this is Tanvir
 - 🎓 I'm doing my undergraduate in CSE
 - 🏆 I’m currently learning React.Js and Node.js
-- 🎯 2021 Goals: Web Development in JS STACK
+- 🎯 2022 Goals: Web Development in JS STACK
 - 🚀 I’m looking for stick with CP and contribute on open source
 - 🤝 I’m looking to collaborate with passionate tech enthusiast
 - 💪 Ask me anything about javascript, react.js
