@@ -4,12 +4,11 @@
 
 - ✋ Hi, this is Tanvir
 - 🎓 I'm doing my undergraduate in CSE
-- 🏆 I’m currently learning React.Js and Node.js
+- 🏆 I’m currently learning Node.js
 - 🎯 2022 Goals: Web Development in JS STACK
 - 🚀 I’m looking for stick with CP and contribute on open source
 - 🤝 I’m looking to collaborate with passionate tech enthusiast
 - 💪 Ask me anything about javascript, react.js
-- 🧾 Resume: [Resume Link](https://drive.google.com/file/d/12fHYXUn1N76FRNWsqV5_leezwQKpkqRK/view)
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 
@@ -38,8 +37,8 @@
 ```json
 {
   "languages": ["Javascript", "Java"],
-  "frontend": ["Bootstrap", "React"],
-  "backend": ["Nodejs", "Express", "Spring"],
+  "frontend": ["React", "Next.js"],
+  "backend": ["Node.js", "Express.js", "Spring"],
   "database": ["MongoDB", "Postgresql"]
 }
 ```
