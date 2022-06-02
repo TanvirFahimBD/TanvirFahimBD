@@ -37,7 +37,7 @@
 ```json
 {
   "languages": ["Javascript"],
-  "frontend": ["React"],
+  "frontend": ["React.js"],
   "backend": ["Node.js", "Express.js"],
   "database": ["MongoDB"]
 }
