@@ -3,7 +3,7 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🎓 I'm doing my undergraduate in CSE
+- 🎓 I'm doing my undergraduate in CSE.
 - 🏆 I’m currently learning Node.js
 - 🎯 2022 Goals: Web Development in JS STACK
 - 🚀 I’m looking forward to contribute on open source
