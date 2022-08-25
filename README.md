@@ -8,7 +8,7 @@
 - 🎯 2022 Goals: Web Development in JS STACK.
 - 🚀 I’m looking forward to contribute on open source.
 - 🤝 I want to collaborate with passionate tech enthusiast.
-- 💪 Ask me anything about javascript, react.js
+- 💪 Ask me anything about javascript, react.js.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 
