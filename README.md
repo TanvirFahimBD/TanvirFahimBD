@@ -5,7 +5,7 @@
 - ✋ Hi, this is Tanvir.
 - 🎓 I'm studing in CSE.
 - 🏆 I’m currently learning Node.js.
-- 🎯 2022 Goals: Web Development in JS STACK.
+- 🎯 2023 Goals: Web Development in JS STACK.
 - 🚀 I’m looking forward to contribute on open source.
 - 🤝 I want to collaborate with passionate tech enthusiast.
 - 💪 Ask me anything about javascript, react.js.
