@@ -3,12 +3,10 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🎓 I'm studing in CSE.
-- 🏆 I’m currently learning Node.js.
-- 🎯 2023 Goals: Web Development in JS STACK.
+- 🏆 I’m currently learning PHP.
+- 🎯 2024 Goal: Web Development in PHP STACK.
 - 🚀 I’m looking forward to contribute on open source.
 - 🤝 I want to collaborate with passionate tech enthusiast.
-- 💪 Ask me anything about javascript, react.js.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 
@@ -36,23 +34,12 @@
 
 ```json
 {
-  "languages": ["Javascript"],
+  "languages": ["PHP"],
   "frontend": ["React.js"],
-  "backend": ["Node.js", "Express.js"],
-  "database": ["MongoDB"]
+  "backend": ["PHP"],
+  "database": ["MYSQL"]
 }
 ```
-
-<br />
-
-### LANGUAGES & TOOLS
-
-</br>
-
-<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-javascript](https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=79740e&labelColor=151515) <br/>
-<img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-node.js](https://img.shields.io/badge/node.js-151515?style=for-the-badge&logo=node.js&logoColor=79740e&labelColor=151515) <br/>
-<img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-mongodb](https://img.shields.io/badge/mongodb-151515?style=for-the-badge&logo=mongodb&logoColor=79740e&labelColor=151515)</br>
-<img src="https://img.shields.io/badge/Tools-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515)![badge-github](https://img.shields.io/badge/github-151515?style=for-the-badge&logo=github&logoColor=79740e&labelColor=151515)
 
 <br />
 
