@@ -3,10 +3,10 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🏆 I’m currently learning PHP.
-- 🎯 2024 Goal: Web Development in PHP STACK.
-- 🚀 I’m looking forward to contribute on open source.
-- 🤝 I want to collaborate with passionate tech enthusiast.
+- 🏆 I’m currently learning JS.
+- 🎯 2024 Goal: Web Development in MERN STACK.
+- 🚀 I’m looking forward to contributing to open source.
+- 🤝 I want to collaborate with passionate tech enthusiasts.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 
@@ -34,10 +34,10 @@
 
 ```json
 {
-  "languages": ["PHP"],
-  "frontend": ["React.js"],
-  "backend": ["PHP"],
-  "database": ["MYSQL"]
+  "languages": ["JS", "TS", "PHP"],
+  "frontend": ["Next.js","React.js"],
+  "backend": ["Node.js", "Express.js", "PHP"],
+  "database": ["MongoDB","Mongoose","MYSQL"]
 }
 ```
 
