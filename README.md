@@ -37,7 +37,8 @@
   "languages": ["JS", "TS", "PHP"],
   "frontend": ["Next.js","React.js"],
   "backend": ["Node.js", "Express.js", "PHP"],
-  "database": ["MongoDB","Mongoose","MYSQL"]
+  "database": ["MongoDB","Mongoose","MYSQL"],
+  "mobile": ["React Native"]
 }
 ```
 
