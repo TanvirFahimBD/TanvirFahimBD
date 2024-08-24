@@ -5,7 +5,7 @@
 - ✋ Hi, this is Tanvir.
 - 🏆 I’m currently learning Mobile Development.
 - 🎯 2024 Goal: Web Development.
-- 🚀 I’m looking forward to contributing to open source.
+- 🚀 I’m looking forward to contributing to open source & solve problems.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
