@@ -47,9 +47,9 @@
 
 </br>
 
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanvir-hossain-fahim-084478156/)
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@tanvirfahim6939)
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/tanvirfahimbd)
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanvir-fahim/)
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@tanvir.cse18)
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/tanvir_hossain_9e45b3d535)
 [<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tanvir.cse18@gmail.com)
 
 </br>
