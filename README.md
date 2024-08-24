@@ -44,6 +44,10 @@
   </a>
   </p>
 
+</br>
+
+<a href="https://app.daily.dev/tanvircse18"><img src="https://api.daily.dev/devcards/v2/jitqrezxwBOagCdirQaCc.png?type=default&r=azo" width="356" alt="Tanvir Hossain's Dev Card"/></a>
+
 ### CONNECT
 
 </br>
@@ -54,5 +58,3 @@
 [<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tanvir.cse18@gmail.com)
 
 </br>
-
-<a href="https://app.daily.dev/tanvircse18"><img src="https://api.daily.dev/devcards/v2/jitqrezxwBOagCdirQaCc.png?type=default&r=azo" width="356" alt="Tanvir Hossain's Dev Card"/></a>
