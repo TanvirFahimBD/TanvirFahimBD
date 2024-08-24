@@ -3,8 +3,8 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🏆 I’m currently learning JS.
-- 🎯 2024 Goal: Web Development in MERN STACK.
+- 🏆 I’m currently learning Mobile Development.
+- 🎯 2024 Goal: Web Development.
 - 🚀 I’m looking forward to contributing to open source.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
