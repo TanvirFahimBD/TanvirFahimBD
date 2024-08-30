@@ -3,8 +3,8 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🏆 I’m currently learning DSA.
 - 🎯 2024 Goal: Web Development.
+- 🏆 I’m currently learning DSA.
 - 🚀 I’m looking forward to contributing to open source & solve problems.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
@@ -33,13 +33,13 @@
 </br>
 
 <p>
-        <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
+   <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
 </p>
 
 ### MY GITHUB STATUS
 
 <br/>
-   <p>
+  <p>
   <a href="#" title="🚀 Github Stats"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>
   </a>
   </p>
