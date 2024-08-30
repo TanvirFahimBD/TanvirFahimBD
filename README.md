@@ -3,7 +3,7 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🏆 I’m currently learning Mobile Development.
+- 🏆 I’m currently learning DSA.
 - 🎯 2024 Goal: Web Development.
 - 🚀 I’m looking forward to contributing to open source & solve problems.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
