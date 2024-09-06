@@ -4,7 +4,7 @@
 
 - ✋ Hi, this is Tanvir.
 - 🎯 2024 Goal: Web Development.
-- 🏆 I’m currently learning DSA.
+- 🏆 I’m currently learning Machine Learning.
 - 🚀 I’m looking forward to contributing to open source & solve problems.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
