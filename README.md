@@ -3,7 +3,7 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🎯 2024 Goal: Web & mobile Development.
+- 🎯 2024 Goal: Web & mobile development.
 - 🏆 I’m currently learning Machine Learning.
 - 🚀 I’m looking forward to contributing to open source & solve problems.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
