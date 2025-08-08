@@ -3,7 +3,7 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🎯 2025 Goal: learning Machine Learning.
+- 🎯 2025 Goal: learn ML.
 - 🏆 I’m currently doing Web development.
 - 🚀 I’m looking forward to contributing to open source & solve problems.
 - 🤝 I want to collaborate with passionate tech enthusiasts.
