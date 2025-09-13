@@ -18,11 +18,10 @@
 
 ```json
 {
-  "languages": ["JS", "TS", "PHP", "C++"],
-  "frontend" : ["Next.js", "React.js"],
-  "backend"  : ["Node.js", "Express.js", "PHP"],
-  "database" : ["MongoDB", "Mongoose", "MYSQL"],
-  "mobile"   : ["React Native"]
+  "languages": ["PHP", "C++", "JS"],
+  "frontend" : ["React.js"],
+  "backend"  : ["PHP", "Node.js", "Express.js"],
+  "database" : ["MYSQL", "MongoDB"]
 }
 ```
 
