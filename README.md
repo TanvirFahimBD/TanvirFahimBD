@@ -3,12 +3,12 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🎯 2025 Goal: learn ML.
-- 🏆 I’m currently doing Web development.
-- 🚀 I’m looking forward to contributing to open source & solve problems.
-- 🤝 I want to collaborate with passionate tech enthusiasts.
+- 🏆 I’m currently working in Backend development.
+- 🎯 2025 Goal: Become a problem-solving expert.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
+- 🤝 I’m looking forward to contributing to open source and collaborating with passionate tech enthusiasts.
+- 🚀 Future Goal: Deep dive into system design & explore ML.
 
 </br>
 
