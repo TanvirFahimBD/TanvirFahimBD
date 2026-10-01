@@ -3,12 +3,12 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🏆 I’m currently working in Backend development.
-- 🎯 2025 Goal: Become a problem-solving expert.
+- 🏆 I’m currently working in Full-Stack development.
+- 🎯 2026 Goal: Become a problem-solver & AI expert.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 - 🤝 I’m looking forward to contributing to open source and collaborating with passionate tech enthusiasts.
-- 🚀 Future Goal: Deep dive into system design & explore ML.
+- 🚀 Future Goal: More Deep dive into System design & LLM.
 
 </br>
 
@@ -18,9 +18,9 @@
 
 ```json
 {
-  "languages": ["PHP", "C++", "JS"],
-  "frontend" : ["React.js"],
-  "backend"  : ["PHP", "Node.js", "Express.js"],
+  "languages": ["PHP", "JS", "C++"],
+  "frontend" : ["Next.js", "React.js"],
+  "backend"  : ["Laravel", "Node.js", "Express.js"],
   "database" : ["MYSQL", "MongoDB"]
 }
 ```
